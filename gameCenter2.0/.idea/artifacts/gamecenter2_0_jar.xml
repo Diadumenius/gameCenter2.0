@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gamecenter2.0.jar">
+    <output-path>$PROJECT_DIR$/../../Server/Test-Server/Plugins</output-path>
+    <root id="archive" name="gamecenter2.0.jar.jar">
+      <element id="module-output" name="gameCenter2.0" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
