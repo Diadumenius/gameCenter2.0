@@ -1,0 +1,20 @@
+name: gameCenter
+version: ${project.version}
+main: de.diadumenius.gamecenter.Main
+api-version: 1.13
+authors: [Diadumenius]
+description: Das Plugin für den GameCenter Server
+
+commands:
+  save:
+    description: Sichere Daten in der Config!
+  build:
+    description: Werde zum Builder!
+  heal:
+    description: Heile dich oder jemand anderen!
+  spawn:
+    description: Setzte den Spawn für verschiedene GameStates!
+  role:
+    description: Ändere die Rolle von dir und anderen!
+  hub:
+    description: Teleportiere dich zum Hub!
