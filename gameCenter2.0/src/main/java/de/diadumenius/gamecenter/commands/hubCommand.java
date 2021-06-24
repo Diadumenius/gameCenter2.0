@@ -38,4 +38,6 @@ public class hubCommand implements CommandExecutor, TabCompleter {
         ArrayList<String> list = new ArrayList<>();
         return list;
     }
+
+    //test//
 }
