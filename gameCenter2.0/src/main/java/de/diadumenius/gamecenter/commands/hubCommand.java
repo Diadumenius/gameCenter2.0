@@ -37,7 +37,6 @@ public class hubCommand implements CommandExecutor, TabCompleter {
     public List<String> onTabComplete(CommandSender sender, Command command, String label, String[] args) {
         ArrayList<String> list = new ArrayList<>();
         return list;
-    }
 
-    //test//
+    }
 }

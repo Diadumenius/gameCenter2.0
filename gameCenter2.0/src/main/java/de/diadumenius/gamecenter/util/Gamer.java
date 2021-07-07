@@ -20,7 +20,7 @@ import java.util.ArrayList;
 public class Gamer {
 
     private static ArrayList<String> gamers;
-    private final String GAMECENTER_PREFIX = PluginFunctions.generatePrefix("GameCenter", ChatColor.DARK_AQUA);
+    private final String GAMECENTER_PREFIX = PluginFunctions.generatePrefix("GamSeCenter", ChatColor.DARK_AQUA);
 
     private Player player;
     private Role role;
