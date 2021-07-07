@@ -59,5 +59,5 @@ public class buildCommand implements CommandExecutor, TabCompleter {
         return list;
     }
 
-    //hahahah OMEGALUL imagine man liest dis lossing test hahaha
+    //xD
 }
